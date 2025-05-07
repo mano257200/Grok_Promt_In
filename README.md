@@ -32,6 +32,8 @@ This vulnerability poses several risks:
 
 ## Output
 
+![Grok AI prompt injection output](https://github.com/mano257200/Grok_Promt_In/blob/main/Grok-Ai_2.png)
+
 ![Grok AI prompt injection output](https://github.com/mano257200/Grok_Promt_In/blob/main/Grok%20Ai%20.png)
 
 ## Impact
