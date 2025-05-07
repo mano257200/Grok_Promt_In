@@ -30,6 +30,10 @@ This vulnerability poses several risks:
 4. Verify the keys using a safe, non-activating method.
 5. One key was found to be valid.
 
+## Output
+
+![Grok AI prompt injection output](https://github.com/mano257200/Grok_Promt_In/blob/main/Grok%20Ai%20.png)
+
 ## Impact
 
 - Valid product keys were generated, which could be used for illegal software activation and copyright violations.
